@@ -76,7 +76,7 @@ The suggested order for going through each of the directories is:
 1.  [x] `comprehensions` -- List comprehensions
 1.  [x] `dictionaries` -- Dictionaries
 1.  [x] `functions` -- Functions
-1.  [ ] `args` -- Arguments and Keyword Arguments
+1.  [x] `args` -- Arguments and Keyword Arguments
 1.  [ ] `scopes` -- Global, Local, and Non-Local scope
 1.  [ ] `file_io` -- Read and write from files
 1.  [ ] `cal` -- Experiment with module imports and implement a text-based calendar

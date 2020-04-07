@@ -88,7 +88,7 @@ The suggested order for going through each of the directories is:
 
 1.  [ ] Rewrite code challenges you've solved before or projects you've implemented before in a different language in Python. Start getting in as much practice with the language as possible!
 
-1.  [ ] Write a program to determine if a number, given on the command line, is prime.
+1.  [x] Write a program to determine if a number, given on the command line, is prime.
 
     1.  [ ] How can you optimize this program?
     1.  [ ] Implement [The Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes), one of the oldest algorithms known (ca. 200 BC).

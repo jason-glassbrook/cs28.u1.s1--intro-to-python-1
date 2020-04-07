@@ -1,0 +1,4 @@
+This is the bar file.
+You cannot buy a drink.
+But you can leave.
+Bye!

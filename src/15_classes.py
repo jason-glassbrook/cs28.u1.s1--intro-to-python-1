@@ -44,7 +44,10 @@ class Geocache(Waypoint):
 
 # Make a new waypoint and print it out: "Catacombs", 41.70505, -121.51521
 
-waypoint = Waypoint('Catacombs', 41.70505, -121.51521)
+waypoint = Waypoint(
+    'Catacombs',
+    41.70505, -121.51521,
+)
 
 
 # Without changing the following line, how can you make it print into something more human-readable? Hint: Look up the `object.__str__` method
@@ -52,7 +55,11 @@ print(waypoint)
 
 # Make a new geocache "Newberry Views", diff 1.5, size 2, 44.052137, -121.41556
 
-geocache = Geocache('Newberry Views', 1.5, 2, 44.052137, -121.41556)
+geocache = Geocache(
+    'Newberry Views',
+    1.5, 2,
+    44.052137, -121.41556,
+)
 
 # Print it--also make this print more nicely
 print(geocache)

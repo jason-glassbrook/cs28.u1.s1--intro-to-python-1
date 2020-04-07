@@ -74,7 +74,7 @@ The suggested order for going through each of the directories is:
 1.  [x] `tuples` -- Immutable lists typically for heterogenous data
 1.  [x] `slices` -- Accessing parts of lists
 1.  [x] `comprehensions` -- List comprehensions
-1.  [ ] `dictionaries` -- Dictionaries
+1.  [x] `dictionaries` -- Dictionaries
 1.  [ ] `functions` -- Functions
 1.  [ ] `args` -- Arguments and Keyword Arguments
 1.  [ ] `scopes` -- Global, Local, and Non-Local scope
